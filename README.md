@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J0SHUALU
-- 👀 I’m interested in Low level programming
+- 👀 I’m interested in Low Level Programming
 - 🌱 I’m currently learning Software Engineering at African Leadership University
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...idk bro i just exist
